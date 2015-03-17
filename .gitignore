@@ -1,0 +1,6 @@
+.vagrant
+Berksfile.lock
+Gemfile.lock
+npm-debug.log
+/.idea
+*.iml
